@@ -32,3 +32,8 @@ a {
     bottom: -20px;
     right: 20px;
 }
+span {
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    -webkit-background-clip: text;
+    color: transparent;
+}
