@@ -1,12 +1,13 @@
-Overview: 
+Overview:
 
-- basic HTML and CSS page for practice
+- basic HTML, CSS, and Bootstrap page for practice
 
-Technolgies Used: 
+Technolgies Used:
 
 - HTML
 - CSS
+- Bootstrap
 
-Features: 
+Features:
 
 Future Development:
