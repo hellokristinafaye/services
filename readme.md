@@ -7,6 +7,7 @@ Technolgies Used:
 - HTML
 - CSS
 - Bootstrap
+- Font-Awesome for icons
 
 Features:
 
